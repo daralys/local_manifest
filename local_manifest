@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  
+   <!-- Device Tree & Vendor Tree -->
+   https://github.com/daralys/android_device_xiaomi_mojito -b arrow-13.1
+   https://github.com/daralys/android_vendor_xiaomi_mojito
+
+  <!-- Kernel -->
+  https://github.com/MatrixxOS9/kernel_xiaomi_mojito.git --depth 1 -b inline-rom kernel/xiaomi/mojito
