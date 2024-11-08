@@ -6,4 +6,4 @@
    https://github.com/daralys/android_vendor_xiaomi_mojito
 
   <!-- Kernel -->
-  https://github.com/MatrixxOS9/kernel_xiaomi_mojito.git --depth 1 -b inline-rom kernel/xiaomi/mojito
+  https://github.com/MatrixxOS9/kernel_xiaomi_mojito.git -b inline-rom kernel/xiaomi/mojito
